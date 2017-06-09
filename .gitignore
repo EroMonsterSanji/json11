@@ -10,3 +10,6 @@ CMakeFiles
 CMakeScripts
 cmake_install.cmake
 install_manifest.txt
+
+.idea
+cmake-build-debug
